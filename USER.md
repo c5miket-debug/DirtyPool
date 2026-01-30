@@ -5,7 +5,7 @@
 - **Name:** Mike
 - **What to call them:** Mike
 - **Pronouns:** *(optional)*
-- **Timezone:** 
+- **Timezone:** America/New_York (Yulee, Florida)
 - **Notes:** Prefers a personal, helpful tone.
 
 ## Context
