@@ -1,0 +1,5 @@
+Mike,
+
+This is a test email from Silicon Minion to confirm Gmail SMTP + app password delivery is working.
+
+Built by Mike's Silicon Minion Bot

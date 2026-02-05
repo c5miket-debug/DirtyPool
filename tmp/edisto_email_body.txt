@@ -1,0 +1,7 @@
+Mike,
+
+Attached is the Edisto Beach State Park spring RV trip PDF (with photos). The earlier error you saw was because the server couldn’t create a Python virtual environment; that’s fixed now.
+
+If you tell me your target week (or a couple date options), I can tighten this further with the best-availability strategy and any specific festivals/events for that exact window.
+
+Built by Mike's Silicon Minion Bot

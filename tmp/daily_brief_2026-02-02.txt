@@ -1,0 +1,71 @@
+"Discipline is choosing between what you want now and what you want most." — Anonymous
+"Ship small, learn fast, iterate." — Unscripted vibe
+"Momentum beats motivation — just start." — (common coaching maxim)
+
+Weather (Yulee, FL)
+- Now (06:45 ET): 26.7°F, clear, wind 5.4 mph
+- 5-day (high/low, conditions):
+  - Mon: 52/27 — Clear
+  - Tue: 63/31 — Overcast
+  - Wed: 64/43 — Rain (~0.11")
+  - Thu: 55/39 — Light drizzle (~0.04")
+  - Fri: 59/34 — Clear
+
+Calendar (next 3 days — ET)
+Mon Feb 2
+- 08:00–09:30 — TA Weekly Quant Call
+- 08:00–09:00 — Review links from Tristian
+- 09:00–10:00 — Call to cancel/renegotiate Sirius (price jump $11 → $32…)
+- 09:00–12:05 — Work on taxes
+- 10:30–11:30 — Pay Mike Rogers
+- 11:00–11:30 — Get W2 from VSP Dayforce website
+- 15:00–16:00 — Call UF Health
+
+Tue Feb 3
+- 09:30–10:00 — 2026 Business Plans — meeting w/ Tristian & Mike
+- 13:00–14:29 — Ruth Hair
+
+Wed Feb 4
+- 10:00–11:00 — Change Wells Mortgage Payment amount to $1,870 March 1
+- 11:00–12:00 — Check Usage Stats on Brave Search and ChatGPT
+- 19:00 (multi-day) — Alarm notification (Feb 4–8)
+
+Top 3 priorities (today)
+1) Taxes block (09:00–12:05): pre-stage docs, then push to “done” on at least one concrete sub-task (W2, 1099s, deductions, etc.).
+2) Sirius call (09:00): go in with a target price + walk-away; take a note of rep name + confirmation #.
+3) TA Quant Call + Tristian links: capture only 3 bullets: what changed, what matters, what you’ll do next.
+
+Key news (max 5)
+- (No web pull in this manual send — I’ll include linked headlines in tomorrow’s automated run.)
+
+Price snapshot (most recent available)
+Crypto (CoinGecko)
+- BTC: $77,847 (24h: -1.08%)
+- SOL: $102.96 (24h: -1.95%)
+- HYPE: n/a
+
+Stocks (Stooq — last close)
+- TSLA: $430.41
+- MSTR: $149.71
+- PLTR: $146.59
+- AMZN: $239.30
+- GOOGL: $338.00
+- NVDA: $191.13
+
+Money moves / watchlist
+- If crypto weakness continues today: watch BTC reaction around prior support zones (don’t force trades; wait for confirmation).
+- TSLA/MSTR have been volatile — consider tightening risk (position sizing / stops) before adding.
+
+Quick reminders
+- Sirius: get the new rate in writing/confirmation email.
+- Wells mortgage payment change: set a calendar reminder for March 1 to verify it actually took.
+
+What Silicon Minion is working on
+- Updating the Financial Roundups to include per-email 3–5 bullet summaries + Action Watch List + shared themes (Trading Apologist, Invest Answers, Coin Bureau).
+- Adding guardrails: max 3 retries + 10-minute cutoff (in place).
+
+Health nudge
+- Cold morning: do a 10-minute “just start” walk or 5-minute mobility before sitting down for taxes.
+
+NOT financial advice.
+Built by Mike's Silicon Minion Bot

@@ -22,6 +22,9 @@ Things like:
 ### SSH
 - home-server → 192.168.1.100, user: admin
 
+### Addresses
+- Mike home → 96093 Windsor Dr, Yulee, FL 32097
+
 ### TTS
 - Preferred voice: "Nova" (warm, slightly British)
 - Default speaker: Kitchen HomePod
