@@ -3,5 +3,7 @@
   "builds": [
     { "src": "apps/dirtyuncomfortable/package.json", "use": "@vercel/next" }
   ],
-  "routes": []
+  "routes": [
+    { "src": "/(.*)", "dest": "/apps/dirtyuncomfortable/$1" }
+  ]
 }
