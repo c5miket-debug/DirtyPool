@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "apps/dirtyuncomfortable/package.json", "use": "@vercel/next" }
+  ],
+  "routes": []
+}
